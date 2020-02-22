@@ -1,0 +1,5 @@
+C:\Users\Alexandre\Documents\dev\dudu-store\DuduStore.Dados\bin\Debug\DuduStore.Dados.dll
+C:\Users\Alexandre\Documents\dev\dudu-store\DuduStore.Dados\bin\Debug\DuduStore.Dados.pdb
+C:\Users\Alexandre\Documents\dev\dudu-store\DuduStore.Dados\obj\Debug\DuduStore.Dados.csprojAssemblyReference.cache
+C:\Users\Alexandre\Documents\dev\dudu-store\DuduStore.Dados\obj\Debug\DuduStore.Dados.dll
+C:\Users\Alexandre\Documents\dev\dudu-store\DuduStore.Dados\obj\Debug\DuduStore.Dados.pdb
